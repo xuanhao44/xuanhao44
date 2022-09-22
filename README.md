@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xuanhao44
 - 👀 I’m interested in playing games? Emm, maybe, but not good.
-- 🌱 I’m currently learning python and C++, and github(laugh).
+- 🌱 I’m currently learning OS.
 - 💞️ I’m looking to collaborate on ...(haven't prepared yet).
 - 📫 How to reach me :shirou-emiya2002@outlook.com
 <!---
